@@ -1,38 +1,35 @@
-<!-- ## Welcome to GitHub Pages
+---
+title: Networks
+description: This is a website about networking, and what you neet to have a basic understanding of it.
+---
 
-You can use the [editor on GitHub](https://github.com/JoelEllis/networks-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## What is a network?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A network is two or more nodes (computers, servers or other electronic devices) that are connected together and are able to communicate.
 
-### Markdown
+Many computer networks will have one or more servers, which are powerful computers that often acts as a central hub for services in a network like emails, internet access or file storage. Each computer connected to a server is called a client.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A computer that is not connected to a network is called a standalone computer.
 
-```markdown
-Syntax highlighted code block
+### What are the benefits of a network?
 
-# Header 1
-## Header 2
-### Header 3
+Using a network allows you to share resources, like:
+ - hardware, such as a printers
+ - software, allowing multiple users to run the same programs on different computers
+ - data, so that other people can access shared work and you can access your data from any computer on the network
 
-- Bulleted
-- List
+Networking is critical if you want to use your computer to communicate. Without it you couldn’t send an email or an instant message.
 
-1. Numbered
-2. List
+We use a huge network on a daily basis and this is called the internet. Around three billion people use the internet to share data, news and other resources, amongst many other things.
 
-**Bold** and _Italic_ and `Code` text
+![Demonstration of globally connected devices](https://bam.files.bbci.co.uk/bam/live/content/zywxfg8/large)
 
-[Link](url) and ![Image](src)
-```
+### What problems can occur with a network?
+If we connect computers or devices together in a network we can expose ourselves to some problems.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If the network breaks, this can make a number of tasks it is used for quite difficult. For example, it might not be possible to share photographs with friends.
 
-### Jekyll Themes
+If computers and devices are networked together, we can expose ourselves to hackers and viruses. Most viruses are spread over a network and most hackers use a network to access other people’s computers. Without a network connection, a hacker would have to physically get to your computer.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoelEllis/networks-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Demonstration of the various weaknesses in a network which can be manipulated](https://bam.files.bbci.co.uk/bam/live/content/zmrdxnb/large)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
--->
