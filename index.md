@@ -1,7 +1,6 @@
 ---
 title: Networks
 description: This is a website about networking, and what you neet to have a basic understanding of it.
-layout: page
 ---
 
 ## What is a network?
